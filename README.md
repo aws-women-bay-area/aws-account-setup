@@ -57,5 +57,7 @@ If you encounter issues during the account creation process, visit [AWS Troubles
 ## Additional Resources
 
 - [AWS Documentation](https://docs.aws.amazon.com/)
+- [What is the AWS Free Tier]([https://repost.aws/knowledge-center/what-is-free-tier]
+- [Free Tier](https://aws.amazon.com/free/)
 - [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
 
